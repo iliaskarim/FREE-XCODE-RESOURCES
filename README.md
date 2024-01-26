@@ -1,1 +1,13 @@
-# FREE-XCODE-RESOURCES
+# FREE XCODE RESOURCES
+
+## Snippets
+
+COMING SOON
+
+## Templates
+
+COMING SOON
+
+## Themes
+
+COMING SOON
