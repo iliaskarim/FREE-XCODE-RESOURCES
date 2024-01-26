@@ -2,6 +2,12 @@
 
 ## Snippets
 
+COMING SOON
+
 ## Templates
 
+COMING SOON
+
 ## Themes
+
+COMING SOON
