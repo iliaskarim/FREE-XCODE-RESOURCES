@@ -12,8 +12,8 @@ Clone https://github.com/iliaskarim/xcode-snippets into your `~/Library/Develope
 
 Clone https://github.com/iliaskarim/xcode-templates into your `~/Library/Developer/Xcode/Templates` directory.
 
-## Themes
+## ~Themes~
 
-**Installation**
+~**Installation**~
 
-Clone https://github.com/iliaskarim/xcode-themes into your `~/Library/Developer/Xcode/UserData/FontAndColorThemes` directory.
+~Clone https://github.com/iliaskarim/xcode-themes into your `~/Library/Developer/Xcode/UserData/FontAndColorThemes` directory.~
